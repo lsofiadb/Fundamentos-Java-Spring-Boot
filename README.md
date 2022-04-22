@@ -1,7 +1,4 @@
-# :round_pushpin: Fundamentos de Java Spring Boot 🖍️📗
-
-<img src="https://www.inovex.de/wp-content/uploads/2021/04/training-spring-boot.png" width="160px" align="right">
-
+# Fundamentos de Java - Spring Boot :leaves::four_leaf_clover:
 - Introducción
 - Dependencias
 - Configuración general
